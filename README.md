@@ -1,4 +1,4 @@
-# :octcat:PythonGame仓库
+# :octocat:PythonGame仓库
 
 学了几天Python，学了GUI库、Pygame库，又做一些游戏了，有贪吃蛇:snake:、滑雪:snowflake:和AI对下五子棋:black_square_button:
 
